@@ -16,3 +16,5 @@ scrap(duration, url, current, voltage)
 #     voltage.append(value)
 
 write2excel("teste.xlsx", "recolha", current, voltage, "PRODUCT")
+
+print("done")
