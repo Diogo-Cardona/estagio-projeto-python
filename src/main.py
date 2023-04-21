@@ -1,5 +1,5 @@
-from w2excel import *
-from scrapping import *
+from src.w2excel import *
+from src.scrapping import *
 import random
 
 duration = 120 #in seconds
