@@ -22,7 +22,7 @@ def parse_arg(voltage, current, percentage, arg):
     
 
  
-def scrap_sel(duration, url, current, voltage, percentage, tempo)
+def scrap_sel(duration, url, current, voltage, percentage, tempo):
     driver = webdriver.Chrome()
     driver.get(url)
     timer = time.time()
