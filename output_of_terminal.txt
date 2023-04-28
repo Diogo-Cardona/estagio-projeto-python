@@ -1,0 +1,10 @@
+Version : 0.0
+Status : 0
+SOC : 0%
+Current : 0mA
+BAT1 : 0ºC
+BAT2 : 0ºC
+MOS : 0ºC
+RES : 0ºC
+Voltage : 0mV
+Battery off
