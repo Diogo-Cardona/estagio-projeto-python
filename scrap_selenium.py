@@ -33,7 +33,4 @@ def scrap_sel(duration, url, current, voltage, percentage, tempo)
         moment = time.time() - timer
         tempo.append(moment)
         time.sleep(0.5)
-
-    print(voltage)
-
     driver.quit()
